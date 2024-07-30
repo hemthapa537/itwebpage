@@ -3,6 +3,8 @@
     --image-hover-scale:1.1;
     --transition-duration:0.3s;
 }
+
+@media (max-width: 786px) {
 *{
     margin: 0;
     padding: 0;
@@ -224,7 +226,7 @@ footer{
     display: flex; 
     justify-content: space-between;  
 }
-
+}
 
 footer img{
     color: #ece4e4;
