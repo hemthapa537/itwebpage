@@ -210,7 +210,7 @@ h3{
        opacity: 0;
     }
 
-
+}
 
 
 
@@ -225,7 +225,7 @@ footer{
     display: flex; 
     justify-content: space-between;  
 }
-}
+
 
 footer img{
     color: #ece4e4;
