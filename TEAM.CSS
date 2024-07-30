@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', san-serif;
+    box-sizing: border-box;
+
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    display: flex; 
+    justify-content: space-between;
+}
+
+header img{
+    margin: 10px;
+    height: 50px;
+    width: 60px;
+}
+
+header h1{
+    margin: 10px;
+    padding: 10px;
+      
+}
+
+Header nav ul{
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    
+
+}
+header ul li{
+    display: inline;
+    margin:  10px;
+    
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+body{
+    background-color: rgb(31, 153, 6);
+}
+
+
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 70%;
+}
